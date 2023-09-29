@@ -1,3 +1,3 @@
 # MazeSolver
 # Data Structures
-This function uses locations from the user to create and solve a maze from a given starting point to a given ending point if possible.
+This program finds if there is a solution to a word melt. This uses Location and Maze classes to determine the solution.
